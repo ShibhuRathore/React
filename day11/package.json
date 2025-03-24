@@ -1,0 +1,17 @@
+{
+  "name": "day11",
+  "version": "1.0.0",
+  "description": "What is Prop Drilling in JavaScript? Prop Drilling is a term used in React.js when you pass data (props) from a parent component to a deeply nested child component, even though intermediate components do not need that data. These intermediate components simply act as a bridge to pass the props down.",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.14.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
